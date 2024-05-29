@@ -1,0 +1,30 @@
+
+	"true label = Redmi"
+	correlation_asus = 0.0383
+	correlation_redmi = 0.0574
+	correlation_huawei = 0.0430
+
+	"true label = Asus"
+	correlation_asus = 0.0641
+	correlation_redmi = 0.0385
+	correlation_huawei = 0.0365
+
+	"true label = Redmi"
+	correlation_asus = 0.0320
+	correlation_redmi = 0.0523
+	correlation_huawei = 0.0373
+
+	"true label = Asus"
+	correlation_asus = 0.0627
+	correlation_redmi = 0.0222
+	correlation_huawei = 0.0206
+
+
+
+
+
+
+
+
+
+
